@@ -1,4 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Sintony&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 body {
-    background-color: red;
-    font-family: Arial;
+    font-family: Sintony, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Satisfy,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: rgba(49, 128, 247, 0.678) 
+
+}
+
+
+#logo {
+    font-size: 200%;
+    font-family: Satisfy,sans-serif;
+    color: rgb(34, 153, 94);
+    display: block;
+    text-align: center;
+}
+
+#sublogo {
+    font-size: 100%;
+    font-family: Satisfy,sans-serif;
+    color: rgb(0, 0, 0);
+    display: block;
+    text-align: center;
 }
