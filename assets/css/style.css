@@ -90,3 +90,22 @@ body {
     padding-top: 30px;
     margin: 0 auto;
 }
+
+.left-about-reasons {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    list-style-type: none;
+}
+
+.right-about-reasons {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: right;
+    list-style-type: none;
+}
