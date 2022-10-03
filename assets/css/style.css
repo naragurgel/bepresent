@@ -160,6 +160,7 @@ body {
     width: 33%;
     float: right;
     height: 400px;
+
 }
 
 #sleep {
@@ -172,4 +173,76 @@ body {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+}
+
+/* sigh up and meetings */
+
+.form-section {
+    clear: left;
+    background: url(../images/signup.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+#signup {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+    padding-top: 30px;
+    color: #fafafa;
+}
+
+
+#display {
+    margin: 150px 50% 0 0;
+    padding-top: 30px;
+ 
+    float: center;
+    
+}
+
+.signup-form {
+    margin: 20px 50% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #6bbbf1;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #6b7ff1;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #786bf1;
 }
