@@ -15,20 +15,25 @@
 
 <body>
     <header id="open">
-        <nav>
+            <a href="index.html" class="title-anchor" aria-label="back to homepage">
+                <img src="assets/images/logomed.jpg" alt="be-present-logo">
+            </a>
+            <nav>
             <ul id="menu">
                 <li><a href="#contact" aria-label="Go to contact section">Contact</a></li>
                 <li><a href="#events" aria-label="Go to events section">Events</a></li>
                 <li><a href="#meditation" aria-label="Go to meditation section">Meditation</a></li>
                 <li><a href="#about" aria-label="Go to about section">About</a></li>
             </ul>
-        </nav>
+            </nav>
+
     </header>
     <section>
         <div id="relax-image">
             <div class="header-section">
                 <h1 class="logo">Be present</h1>
-                <h3 class="sublogo">here and now<h3>
+                <h3 class="sublogo">here and now</h3>
+                
             </div>
         </div>
     </section>
@@ -89,49 +94,43 @@
         </div>
     </section>
 
+    <section id="form-section">
 
-    </div>
-    </section>
+        <h2 id="presencial">Sign up for our presencial meetings</h2>
+        <div>
+            <form class="signup-form" method="POST">
+                <h2>It's meditation time!</h2>
+                <p>We have meditation in group every Wednesday, book your slot.</p>
+                <br>
+                <label for="fname">First Name</label>
+                <input id="fname" class="text-input" type="text" name="first_name" required>
+                <label for="lname">Last Name</label>
+                <input id="lname" class="text-input" type="text" name="last_name" required>
+                <label for="email">Email Address</label>
+                <input id="email" class="text-input" type="email" name="email_address" required>
 
-    <section class="form-section">
+                <label>Time:</label><br>
+                <select>
+                    <option>9:00</option>
+                    <option>14:00</option>
+                    <option>20:00</option>
+                </select>
+                <input class="join-button" type="submit" value="Enjoy us!">
 
-        <h2 id="signup">Sign up for our presencial meetings</h2>
-        <div id="display">
-                <form class="signup-form" method="POST">
-                    <h2>It's meditation time!</h2>
-                    <p>We have meditation in group every Wednesday, book your slot.</p>
-                    <br>
-                    <label for="fname">First Name</label>
-                    <input id="fname" class="text-input" type="text" name="first_name" required />
-                    <label for="lname">Last Name</label>
-                    <input id="lname" class="text-input" type="text" name="last_name" required />
-                    <label for="email">Email Address</label>
-                    <input id="email" class="text-input" type="email" name="email_address" required />
-
-                    <label>Time:</label><br>
-                    <select>
-                        <option>9:00</option>
-                        <option>14:00</option>
-                        <option>20:00</option>
-                    </select>
-                    <input class="join-button" type="submit" value="Enjoy us!" />
-
-                </form>
+            </form>
         </div>
     </section>
 
-    <section class="section-meet" id="signup">
-        <div class="container">
-            <div class="meetings">
-                <div class="meet-text-box">
-
-
-
-
+    <footer>
+        <ul class="social-networks">
+            <li><a href="https://www.facebook.com" target="_blank" rel="noopener"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank" rel="noopener"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube-square"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank" rel="noopener"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </footer>
 
 </body>
-<footer>
-
-</footer>
+ 
 
 </html>
