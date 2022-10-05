@@ -172,7 +172,6 @@ body {
     float: left;
     height: 400px;
     margin-left: 30px;
-    background-color: pink;
 }
 
 #bepresentm {
@@ -181,8 +180,6 @@ body {
     float: right;
     height: 400px;
     margin-right: 30px;
-    background-color: aqua;
-
 }
 
 #sleep {
@@ -190,8 +187,6 @@ body {
     width: 33%;
     margin: 0 auto;
     height: 400px;
-    background-color: blue;
-
 }
 
 #welcome2 {
@@ -200,6 +195,13 @@ body {
     font-size: 280%;
     padding-top: 80px;
 
+}
+
+
+.flex-row {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 /* sigh up and meetings */
