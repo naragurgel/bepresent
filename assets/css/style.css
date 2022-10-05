@@ -10,7 +10,7 @@
 
 body {
     font-family: Sintony, sans-serif;
-    font-weight: 300;
+    font-weight: 300px;
     color: #41444d;
 }
 
@@ -18,7 +18,7 @@ body {
 /*header*/
 
 #open{
-    height: 40px;
+    height: auto;
     position: relative;
 }
 
@@ -172,6 +172,7 @@ body {
     float: left;
     height: 400px;
     margin-left: 30px;
+    background-color: pink;
 }
 
 #bepresentm {
@@ -180,6 +181,7 @@ body {
     float: right;
     height: 400px;
     margin-right: 30px;
+    background-color: aqua;
 
 }
 
@@ -188,6 +190,7 @@ body {
     width: 33%;
     margin: 0 auto;
     height: 400px;
+    background-color: blue;
 
 }
 
@@ -196,6 +199,7 @@ body {
     margin: 20px 0;
     font-size: 280%;
     padding-top: 80px;
+
 }
 
 /* sigh up and meetings */
