@@ -18,8 +18,7 @@ body {
 /*header*/
 
 #open{
-    height: 80px;
-    background-color: #ffffff48;
+    height: 40px;
     position: relative;
 }
 
@@ -27,9 +26,10 @@ body {
 
 .title-anchor {
     line-height: 75px;
-    padding: 50px 50px 0 auto;
     float: left;
     display: block;
+    margin-left: 30px;
+    padding-top: 10px;
 }
 
 #menu li {
@@ -40,7 +40,9 @@ body {
     list-style-type: none;
     line-height: 120px; 
     color: black;
+    font-size: 130%;
 }
+
 
 #menu a{
     text-decoration: none;
@@ -53,16 +55,18 @@ body {
 
 /*image header */
 
+
 #relax-image {
     background: url(../images/relax-image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 724px;
+    height: 600px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     position: relative;
+    overflow: hidden;
 }
 
 /*logo header */
@@ -91,6 +95,7 @@ body {
 
 #benefits {
     height: 500px;
+    
 }
 
 #left-about {
@@ -137,6 +142,7 @@ body {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+    padding-top: 80px;
 }
 
 #circle-relax {
@@ -189,6 +195,7 @@ body {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+    padding-top: 80px;
 }
 
 /* sigh up and meetings */
@@ -203,20 +210,12 @@ body {
     display: flex;
     justify-content: space-between;
     position: relative;
-    margin-top: 30px;
-}
-
-#presencial {
-    text-align: center;
-    font-size: 280%;
-    color: #ffffff;
-    margin-bottom: 26%;
-    margin-left:25% ;
+    margin-top: 100px;
 }
 
 .display {
     display: block;
-    margin-top: 5%;
+    
     margin-left: 30%;
     margin-right: auto;
     width: 50%;
@@ -247,7 +246,7 @@ body {
 }
 
 .text-input:hover {
-    border-color: #6bbbf1;
+    border-color: #1883c0;
 }
 
 .join-button {
@@ -256,12 +255,34 @@ body {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #6b7ff1;
+    background-color: #1883c0;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #786bf1;
+    color: #1883c0;
+}
+
+/*footer*/
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
