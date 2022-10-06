@@ -25,7 +25,6 @@ body {
 /* menu */
 
 .title-anchor {
-    line-height: 75px;
     float: left;
     display: block;
     margin-left: 30px;
@@ -166,28 +165,7 @@ body {
 
 /* guided meditation */
 
-#self-love {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    height: 400px;
-    margin-left: 30px;
-}
 
-#bepresentm {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    height: 400px;
-    margin-right: 30px;
-}
-
-#sleep {
-    padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
-    height: 400px;
-}
 
 #welcome2 {
     text-align: center;
@@ -199,9 +177,14 @@ body {
 
 
 .flex-row {
+    width: 100%;
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+.flex-row > div {
+    padding: 30px;
 }
 
 /* sigh up and meetings */
@@ -272,7 +255,6 @@ body {
 }
 
 /*footer*/
-
 footer{
     height: 150px;
 }
