@@ -94,16 +94,21 @@ body {
 
 .left-about-reasons, .right-about-reasons {
     list-style-type: none;
-    line-height: 55px;
+    line-height: 50px;
 }
 
 .right-about-reasons {
     text-align: right;
 }
 
-#center-reasons {
-    width: 100%;
+@media screen and (max-width: 1200px) {
+    #center-reasons {
+        width: 100%;
+
+    }    
+    
 }
+
 
 #welcome {
     text-align: center;
@@ -120,7 +125,7 @@ body {
     border-color: #41444d;
     border-width: 1px;
     border-radius: 50%;
-    margin: 8% auto;
+    margin: auto;
 }
 
 #circle-cover {
@@ -243,3 +248,47 @@ footer{
     color: #3a3a3a;
 }
 
+@media screen and (max-width: 425px) {
+     
+    .youtube-iframe {
+        width: 320px;
+        height: 315px;
+    }
+
+    #menu {
+        clear: both;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 65%;
+        height: 80px;
+        text-align: center;
+    }
+
+    .sublogo {
+        text-align: center;
+    }
+
+    #welcome {
+        padding-top: 10px ;
+    }
+    #benefits {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #form-section {
+        display: none;
+    }
+
+}
+
+
+@media screen and (max-width: 320px) {
+ 
+
+    #meditations, #form-section {
+        display: none;
+    }
+}
