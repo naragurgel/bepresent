@@ -92,55 +92,23 @@ body {
 }
 /* benefits meditation */
 
-#benefits {
-    height: 500px;
-    
-}
-
-#left-reasons {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-}
-
-#right-reasons {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-#center-reasons {
-    width: 33%;
-    margin: 0 auto;
-}
-
-.left-about-reasons {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+.left-about-reasons, .right-about-reasons {
     list-style-type: none;
-    line-height: 75px;
-    font-size: 125%;
+    line-height: 55px;
 }
 
 .right-about-reasons {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
     text-align: right;
-    list-style-type: none;
-    line-height: 75px;
-    font-size: 125%;
+}
+
+#center-reasons {
+    width: 100%;
 }
 
 #welcome {
     text-align: center;
     margin: 20px 0;
-    font-size: 280%;
+    font-size: 3rem;
     padding-top: 80px;
 }
 
@@ -275,45 +243,3 @@ footer{
     color: #3a3a3a;
 }
 
-
-/* Media queries */
-
-/* For larger to medium screens size from 1200px wide and down*/
-
-@media screen and (max-width: 1200px) {
-    #benefits {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #left-reasons, .right-reasons {
-        width: 100%;
-        padding: 0;
-        text-align: center
-    }
-
-    #center-reasons {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #welcome2 {
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    .left-about-reasons {
-        margin-left: 20%;
-    }
-
-
-
-}
