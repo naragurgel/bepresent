@@ -5,7 +5,7 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
-    align-items: center;
+   
 }
 
 body {
@@ -94,7 +94,7 @@ body {
 
 .left-about-reasons, .right-about-reasons {
     list-style-type: none;
-    line-height: 50px;
+    line-height: 55px;
 }
 
 .right-about-reasons {
@@ -125,7 +125,7 @@ body {
     border-color: #41444d;
     border-width: 1px;
     border-radius: 50%;
-    margin: auto;
+    margin: 0 auto;
 }
 
 #circle-cover {
@@ -288,7 +288,20 @@ footer{
 @media screen and (max-width: 320px) {
  
 
+    #circle-relax {
+        width: 250px;
+        height: 250px;
+        padding: 10px;
+        border-style: solid;
+        border-color: #41444d;
+        border-width: 1px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
+
+
     #meditations, #form-section {
         display: none;
     }
+
 }
