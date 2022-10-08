@@ -10,8 +10,8 @@
 
 body {
     font-family: Sintony, sans-serif;
-    font-weight: 300px;
-    color: #41444d;
+    color: #1E221E;
+    font-weight: 300;
 }
 
 
@@ -20,6 +20,7 @@ body {
 #open{
     height: auto;
     position: relative;
+
 }
 
 /* menu */
@@ -82,19 +83,20 @@ body {
 .logo {
     font-size: 350%;
     text-align: center;
-    color: black;
+    color: #1E221E;
 }
 
 .sublogo {
     font-size: 175%;
     margin-left: 18%;
-    color: black;
+    color: #1E221E;
 }
 /* benefits meditation */
 
 .left-about-reasons, .right-about-reasons {
     list-style-type: none;
     line-height: 55px;
+    font-size: 1.5rem;
 }
 
 .right-about-reasons {
@@ -113,14 +115,15 @@ body {
 #welcome {
     text-align: center;
     margin: 20px 0;
-    font-size: 3rem;
+    font-size: 2.5rem;
     padding-top: 80px;
+    color: #2C4755;
 }
 
 #circle-relax {
-    width: 300px;
-    height: 300px;
-    padding: 20px;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
     border-style: solid;
     border-color: #41444d;
     border-width: 1px;
@@ -143,11 +146,17 @@ body {
 #welcome2 {
     text-align: center;
     margin: 20px 0;
-    font-size: 280%;
-    padding-top: 80px;
-
+    font-size: 2.5rem;
+    padding-top: 30px;
+    color: #2C4755;
 }
 
+.title {
+    text-align: center;
+    font-size: 1.5rem;
+    color:#2C4755;
+    padding-bottom: 20px;
+}
 
 .flex-row {
     width: 100%;
@@ -159,6 +168,7 @@ body {
 .flex-row > div {
     padding: 30px;
 }
+
 
 /* sigh up and meetings */
 
@@ -177,11 +187,11 @@ body {
 
 .display {
     display: block;
-    
     margin-left: 30%;
     margin-right: auto;
     width: 50%;
     position: absolute;
+    padding-top: 50px;
 }
 
 .signup-form {
@@ -194,7 +204,8 @@ body {
 
 .signup-form > h2 {
     color: #fafafa;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 .text-input {
@@ -208,7 +219,7 @@ body {
 }
 
 .text-input:hover {
-    border-color: #1883c0;
+    border-color: #5293A7
 }
 
 .join-button {
@@ -217,14 +228,16 @@ body {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #1883c0;
-    color: #fafafa;
+    background-color: #fafafa;
+    color: #1E221E;
     display: block;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px 2px #1E221E;;
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #1883c0;
+    background-color: #7C7345;
+    color: #1E221E;
 }
 
 /*footer*/
@@ -248,6 +261,23 @@ footer{
     color: #3a3a3a;
 }
 
+@media screen and (max-width: 630px) {
+    #relax-image {
+        width: 100%;
+    }
+
+    #menu {
+        clear: both;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 65%;
+        height: 80px;
+    }
+
+}
+
 @media screen and (max-width: 425px) {
      
     .youtube-iframe {
@@ -263,7 +293,6 @@ footer{
         line-height: 25px;
         font-size: 65%;
         height: 80px;
-        text-align: center;
     }
 
     .sublogo {
@@ -280,6 +309,9 @@ footer{
 
     #form-section {
         display: none;
+    }
+    .flex-row > div {
+        padding: 10px;
     }
 
 }
@@ -304,4 +336,13 @@ footer{
         display: none;
     }
 
+    #welcome {
+        font-size: 30px;
+    }
+
+    #benefits {
+        font-size: 12px;
+        margin: 0 auto;
+    }
 }
+
