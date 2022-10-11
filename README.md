@@ -115,7 +115,7 @@ The final site varies from the wireframes due to developments that occurred duri
 
 #### Desktop
 
-![Desktop Wireframe](./documentation/desktop_wireframe.png)
+![Desktop Wireframe](./documentation/desktop.png)
 
 #### Tablet
 ![tablet Wireframe](./documentation/tablet.png)
