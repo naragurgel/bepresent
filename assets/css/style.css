@@ -169,6 +169,14 @@ body {
     padding: 30px;
 }
 
+.youtube-iframe {
+    width: 560px;
+    height: 315px;
+}
+
+iframe{
+    border-width: 0px;
+}
 
 /* sigh up and meetings */
 
@@ -311,7 +319,7 @@ footer{
 
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 520px) {
      
     .youtube-iframe {
         width: 320px;
@@ -324,7 +332,7 @@ footer{
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-        font-size: 65%;
+        font-size: 85%;
         height: 80px;
     }
 
@@ -334,6 +342,11 @@ footer{
 
     #welcome {
         padding-top: 10px ;
+    }
+
+    .left-about-reasons, .right-about-reasons {
+        font-size: 100%;
+
     }
     #benefits {
         width: 90%;
@@ -346,11 +359,32 @@ footer{
     .flex-row > div {
         padding: 10px;
     }
-
+    footer {
+        padding-top: 30px;
+    }
 }
 
+@media screen and (max-width: 390px) {
+    
+    #menu {
+        clear: both;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 60%;
+        height: 80px;
+    }
 
-@media screen and (max-width: 320px) {
+    .left-about-reasons, .right-about-reasons {
+        font-size: 100%;
+
+    }
+
+    
+}
+
+@media screen and (max-width: 338px) {
  
 
     #circle-relax {
