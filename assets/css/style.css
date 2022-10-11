@@ -362,6 +362,10 @@ footer{
     footer {
         padding-top: 30px;
     }
+
+    #welcome2{
+        padding: 30px;
+    }
 }
 
 @media screen and (max-width: 390px) {

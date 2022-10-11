@@ -58,20 +58,20 @@ Be Present is a website to practice meditation. There are some guided meditation
 
 ## UX Development
  ### Project Goal
-Demonstrate my competence usin HTML and CSS languages in building a responsive website.
+Demonstrate my competence using HTML and CSS languages to build a responsive website.
 
-The website should promote mditations guided online and information about the presencial meetings. 
+The website should promote informations about benefits of meditatios, guided meditations with online videos and information about the presencial meetings. 
 
 ## User Stories
 ### New User 
 * I want to easily navigate the site and find the relevant information easily.
 * I want to practice meditatio on-line.
-* I want to know more about the meditations and the meetings. 
-* I want to sign up o participated of the meditations meetings.
+* I want to know more about the meditations and the presencial meetings. 
+* I want to sign up to enjoy the meditations meetings.
 * I want to interact with social media.
 
 ### Returning Users
-* I want to know about meditation and practice.
+* I want to know about meditation and how to practice it.
 * I want to be able to contact the company with any further questions.
 * I want to be able to sign up and enjoy the presencial meetings.
 
@@ -141,12 +141,12 @@ The final site varies from the wireframes due to developments that occurred duri
 ![About section](./documentation/meditations.png)
 
 ### Sign up Section
-- There are a form with information about the presentical meetings.
-- The user can sigh up for the meetings by givind some details and choosing a time.
+- There are a form with information about the presential meetings.
+- The user can sign up for the meetings by giving some personal details and choosing a time.
 ![Product Section](./documentation/signup.png)
 
 ### Footer
-- The footer contem 4 icons with directions for the social medias, where the user could contact and also interact.
+- The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
 ![Footer](./documentation/footer.png)
 
 ### Languages Used
@@ -201,5 +201,5 @@ To make a copy or ‘fork’ the repository -
 
 
 ### Media
-Product and Hero images are from the free website [Pexel](https://www.pexels.com/).
+
 
