@@ -326,6 +326,10 @@ footer{
         height: 315px;
     }
 
+    #hidden {
+        display: none;
+    }
+    
     #menu {
         clear: both;
         float: left;
@@ -366,6 +370,8 @@ footer{
     #welcome2{
         padding: 30px;
     }
+
+    
 }
 
 @media screen and (max-width: 390px) {
