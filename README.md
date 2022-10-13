@@ -2,7 +2,7 @@
 
 Be Present is a website to practice meditation. There are some guided meditation on the page and information about the presecial meetings.
 
-![Responsive](./documentation/responsive.png)
+![image](https://user-images.githubusercontent.com/112726044/195715498-30ca5223-f007-4376-baad-ebe45d57d037.png)
 
 ## Live Site
 [Be-Present](https://naragurgel.github.io/bepresent/)
@@ -87,7 +87,7 @@ The website should promote informations about benefits of meditatios, guided med
 ### Colour Scheme
 
 The colour scheme was inspired by the relax image, with blue, green, white, gold and charcol tones.
-![colour_palete](./documentation/palette.png)
+![image](https://user-images.githubusercontent.com/112726044/195715866-8813293f-966a-4da3-9588-fad70601bea4.png)
 
 The colour palette was created using the [Coolors](https://coolors.co/1e221e-5293a7-7c7345-fafafa-2c4755) to generate some colour codes as inspiration for the site.
 
@@ -111,14 +111,17 @@ The Wireframes were produced using [Balsamiq](https://balsamiq.com/).
 The final site varies from the wireframes due to developments that occurred during the building process. 
 
 #### Phone
-![Mobile Wireframe](./documentation/mobile.png)
+
+![image](https://user-images.githubusercontent.com/112726044/195716239-e58da0c2-f8f5-420b-b42b-c2e5807a79ab.png)
+
 
 #### Desktop
 
-![Desktop Wireframe](./documentation/desktop.png)
+![image](https://user-images.githubusercontent.com/112726044/195716091-bcc84571-f704-4890-95d0-da133cf3efaf.png)
 
 #### Tablet
-![tablet Wireframe](./documentation/tablet.png)
+
+![image](https://user-images.githubusercontent.com/112726044/195716167-5ff02a97-e4be-4309-a143-7fecd6f70c45.png)
 
 ## Features
 
@@ -126,28 +129,28 @@ The final site varies from the wireframes due to developments that occurred duri
 
 - The navigation bar is responsive at the top of the page and it shows the logo on the left.
 - The navigation links on the right take the user to different sections on the same page.
-![Navagation Bar](./documentation/nav-bar.png)
+![image](https://user-images.githubusercontent.com/112726044/195716350-a7243819-d55c-4905-9dbb-667d8f0cbcb3.png)
 
 ### Header
 - The header provides the relax image com logo and sub logo inside.
-![Header](./documentation/header.png)
+![image](https://user-images.githubusercontent.com/112726044/195716423-18579271-a929-4bfc-afd1-f6029bbf964e.png)
 
 ### Benfefits Section
 - The benefits of meditation section tell the most important results from the practice of meditation.
-![Features section](./documentation/benefits.png)
+![image](https://user-images.githubusercontent.com/112726044/195716463-329eeb86-9a40-4db5-ada9-6c123244d921.png)
 
 ### Meditations Section
 - The section meditations shows videos of guided meditation for the user prectice it.
-![About section](./documentation/meditations.png)
+![image](https://user-images.githubusercontent.com/112726044/195716612-f7a5a5f9-6584-465f-8d02-9c5935646151.png)
 
 ### Sign up Section
 - There are a form with information about the presential meetings.
 - The user can sign up for the meetings by giving some personal details and choosing a time.
-![Product Section](./documentation/signup.png)
+![image](https://user-images.githubusercontent.com/112726044/195716656-498089c4-f45e-4fa2-a9d4-a1d7170e51ff.png)
 
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
-![Footer](./documentation/footer.png)
+![image](https://user-images.githubusercontent.com/112726044/195716709-4c7d2a86-395d-4a38-887f-13da0d48bb5b.png)
 
 ### Languages Used
 
