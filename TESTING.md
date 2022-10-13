@@ -18,11 +18,11 @@ The Be Present site has been tested in the following ways -
 
 Index Page
 
-![W3C Validator test result](./documentation/html-validator.png)
+![image](https://user-images.githubusercontent.com/112726044/195717426-d9cdcfd3-ea1a-402f-8daf-516eb2d51995.png)
 
 Thank-You Page
 
-![W3C Validator test result](./documentation/html-validator.png)
+![image](https://user-images.githubusercontent.com/112726044/195717434-c361608a-266d-4df3-9598-d79a30e11a35.png)
 
 
 
@@ -30,7 +30,7 @@ Thank-You Page
 
 All pages passed the CSS validator without error. 
 
-![W3C CSS Validator test result](./documentation/css-validator.png)
+![image](https://user-images.githubusercontent.com/112726044/195717602-83005520-073c-4c58-9306-0f63a5bb55ba.png)
 
 ## Lighthouse 
 
@@ -43,14 +43,14 @@ I Used Lighthouse in Chrome Developer Tools to test each of the pages for:
 
 - As an example, the results for the Be present website for desktop.
 
-![Lighthouse Testing Mobile](./documentation/lighthouse.png)
+![image](https://user-images.githubusercontent.com/112726044/195717752-68b62fb8-2f0f-4d79-963c-b14d6a20d7ae.png)
 
 
 ## A11y Color Contrast Accessibility Checker
 
 Colour contrast tests were carried out across the website and all came back without issue. 
 
-![Colour Contrast Checks](./documentation/accessibility.png)
+![image](https://user-images.githubusercontent.com/112726044/195717827-f139c052-a025-4e12-9234-dd5f46c27667.png)
 
 ## Browser Compatibility
 
