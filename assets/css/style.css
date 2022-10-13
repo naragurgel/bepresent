@@ -5,8 +5,12 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
-   
 }
+
+html {
+    scroll-behavior: smooth;
+  }
+  
 
 body {
     font-family: Sintony, sans-serif;
@@ -18,8 +22,18 @@ body {
 /*header*/
 
 #open{
-    height: auto;
-    position: relative;
+    height: 110px;
+    position: fixed;
+    background: white;
+    top: 0;
+    width: 100%;
+    clear: both;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid darkgray;
+    z-index: 100;
+    align-items: end;
+
 
 }
 
@@ -158,6 +172,7 @@ body {
     padding-bottom: 20px;
 }
 
+
 .flex-row {
     width: 100%;
     display: inline-flex;
@@ -178,37 +193,29 @@ iframe{
     border-width: 0px;
 }
 
+
 /* sigh up and meetings */
 
-#form-section {
-    background: url(../images/signup.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 600px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-    margin-top: 100px;
-}
-
 .display {
-    display: block;
-    margin-left: 30%;
-    margin-right: auto;
-    width: 50%;
-    position: absolute;
-    padding-top: 50px;
-}
+  
+     background: url(../images/signup.jpg);
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     height: 100%;
+     width: 100%;
+     text-align:center;	
+ }
+ 
 
 .signup-form {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
-    left: 10%;
+    margin: 0 auto;
     padding: 30px;
 }
+
 
 .signup-form > h2 {
     color: #fafafa;
@@ -228,6 +235,12 @@ iframe{
 
 .text-input:hover {
     border-color: #5293A7
+}
+
+select, .text-input {
+    height: 40px;
+   font-size: 18px;
+   padding: 5px;
 }
 
 .join-button {
@@ -256,7 +269,7 @@ iframe{
     margin: auto;
     width: 50%;
     padding: 1em;
-    margin-top: 80px;
+ 
     box-shadow: 10px 7px 7px rgba(60, 60, 60, 1);
 }
 
@@ -281,25 +294,42 @@ iframe{
     text-decoration: none;
     color: #fafafa;
 }
+
+#color.thanks-page #relax-image {
+        height: calc(100vh - 20px - 52px);
+    }
+.thanks-page #relax-image{
+        height: calc(100vh - 80px);
+    }
+    
 /*footer*/
 footer{
-    height: 150px;
-}
-
-.social-networks{
+    padding-top: 30px;
+  }
+  
+  .social-networks {
     text-align: center;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 10px auto;
+    width: 90%;
+    list-style-type: none;
 
 }
-
-.social-networks li{
-    display: inline;
-}
-
 .social-networks i{
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    font-size: 32px;
+    margin: 10px auto;
     color: #1E221E;
+}
+
+@media screen and (max-width: 992px) {
+    .thank-you, .thanks-page .header-section{
+        width: 90%
+    }
+    .thanks-page #relax-image{
+        height: calc(100vh - 62px);
+    }
 }
 
 @media screen and (max-width: 630px) {
@@ -310,13 +340,35 @@ footer{
     #menu {
         clear: both;
         float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-bottom: 40px;
         line-height: 25px;
-        font-size: 65%;
-        height: 80px;
+        font-size: 60%;
+        height: 40px;
     }
 
+    #open img {
+        max-width: 30px;
+        max-height: 30px;
+    }
+    .title-anchor{
+        margin-left: 12px;
+    }
+    #open{
+        height: 40px;
+    }
+
+    .flex-row {
+        overflow: hidden;
+    }
+
+    .display {
+        padding-top: 28px;
+    }
+
+    .signup-form {
+        padding: 20px;
+    }
 }
 
 @media screen and (max-width: 520px) {
@@ -324,20 +376,6 @@ footer{
     .youtube-iframe {
         width: 320px;
         height: 315px;
-    }
-
-    #hidden {
-        display: none;
-    }
-    
-    #menu {
-        clear: both;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        font-size: 85%;
-        height: 80px;
     }
 
     .sublogo {
@@ -357,9 +395,7 @@ footer{
         margin: 0 auto;
     }
 
-    #form-section {
-        display: none;
-    }
+    
     .flex-row > div {
         padding: 10px;
     }
@@ -376,15 +412,10 @@ footer{
 
 @media screen and (max-width: 390px) {
     
-    #menu {
-        clear: both;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        font-size: 60%;
-        height: 80px;
+    #menu li{
+        margin-right: 10px;
     }
+
 
     .left-about-reasons, .right-about-reasons {
         font-size: 100%;
@@ -406,11 +437,6 @@ footer{
         border-width: 1px;
         border-radius: 50%;
         margin: 0 auto;
-    }
-
-
-    #meditations, #form-section {
-        display: none;
     }
 
     #welcome {
