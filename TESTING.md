@@ -54,7 +54,21 @@ Colour contrast tests were carried out across the website and all came back with
 
 ## Browser Compatibility
 
-The site was tested on Google Chrome, Microsoft Edge, Safari and Mozilla Firefox, with no visible issues for the user. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+The site was tested and I ensured my site is working well as fallow in the table below:
+
+| Device             | BROSWER        | OS           | VIEWPOINT     |
+|--------------------|----------------|--------------|---------------|
+| Iphone 11          | Safari         | iOS, v14     | 414 x 715px   |
+| Iphone 12          | Safari         | iOS, v16     | 428 x 746px   |
+| Vivo Y21           | Firefox        | Android, v11 | 384x 724px    |
+| OnePlus 6T         | Chrome         | Android, v9  | 412 x 757px   |
+| Samsung Galaxy     | Samsung        | Android, v12 | 360 x 649px   |
+| Motorola Moto G71  | Chrome         | Android, v11 | 412 x 797px   |
+| Huawei P30         | Firefox        | Android, v09 | 360 x 657px   |
+| Samsung Galaxy Tab | Chrome         | Android, v12 | 753 x 1037px  |
+| Ipad Pro 12.9      | Safari         | iOS, V12     | 1024 x 1292px |
+| Windows 10         | Microsoft Edge | Windows 10   | 1920 x 946px  |
+| MAC BOOK           | Safari 12.1    | Mohave       | 1400 x 766px  |
 
 
 ## Bugs

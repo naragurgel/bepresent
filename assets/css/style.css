@@ -323,6 +323,11 @@ footer{
     color: #1E221E;
 }
 
+.social-networks a:hover i {
+    transform: rotate(-15deg) scale(1.5);
+    color: #5293A7;
+}
+
 @media screen and (max-width: 992px) {
     .thank-you, .thanks-page .header-section{
         width: 90%
