@@ -204,5 +204,6 @@ To make a copy or ‘fork’ the repository -
 I would like to thank my mentor Malia for her help, patience and advice.
 
 ### Media
-
+Relax image is from Pexels website, free images.
+Guided meditations videos are from Youtube.
 
