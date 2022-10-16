@@ -201,7 +201,7 @@ To make a copy or ‘fork’ the repository -
 [Testing.md](TESTING.md) 
 
 ### Credits 
-
+I would like to thank my mentor Malia for her help, patience and advice.
 
 ### Media
 
