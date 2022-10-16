@@ -70,6 +70,17 @@ The site was tested and I ensured my site is working well as fallow in the table
 | Windows 10         | Microsoft Edge | Windows 10   | 1920 x 946px  |
 | MAC BOOK           | Safari 12.1    | Mohave       | 1400 x 766px  |
 
+##Manual Testing
+
+**Manual Testing For Contact Form**
+- The submit button is working
+- The error mensage about the required fields appears if you submit a empty input
+- The error mensage appears if you submit a invalid email address
+- I tested the sucess message after submit all the correct inputs
+- No console errors
+- Looks good on mobile 
+- Looks good on tablet
+- Looks good on desktop
 
 ## Bugs
 ### Unresolved
