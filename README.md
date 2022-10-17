@@ -150,7 +150,7 @@ The final site varies from the wireframes due to developments that occurred duri
 
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
-![image](https://user-images.githubusercontent.com/112726044/195716709-4c7d2a86-395d-4a38-887f-13da0d48bb5b.png)
+![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
 
 ### Languages Used
 
