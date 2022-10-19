@@ -92,11 +92,11 @@ The colour palette was created using the [Coolors](https://coolors.co/1e221e-529
 
 Google Fonts was used for the following fonts:
 
-Satisfy is used for headings on the site.
-Sintony is used for the body text on the site.
+Satisfy is used for headings on the site. It's a rounded and classic font that brings lightness to the text.
+Sintony is used for the body text on the site. It's a modern and smooth font that provides calm and clear feeling to the readers.
 
 ### Imagery
-The photos featured throughout the site were obtained from free image providers such as Pexels.
+The photos featured throughout the site were obtained from free image providers such as Pexels. I chose the relax-image and the other smaller ones within the sections following the color palette with tones that bring calm and call to nature, giving the feeling of relaxation.
 
 ### Site Structure
 
@@ -126,6 +126,9 @@ The final site varies from the wireframes due to developments that occurred duri
 
 - The navigation bar is responsive at the top of the page and it shows the logo on the left.
 - The navigation links on the right take the user to different sections on the same page.
+- The navigation bar stickys when the users scrown down the page.
+- The navigation bar gets smaller on smal devices.
+- The navigation bar links scroll smoothly down, so it doesn't shock users with abrupt movement.
 ![image](https://user-images.githubusercontent.com/112726044/195716350-a7243819-d55c-4905-9dbb-667d8f0cbcb3.png)
 
 ### Header
