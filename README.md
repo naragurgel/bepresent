@@ -158,6 +158,14 @@ The final site varies from the wireframes due to developments that occurred duri
 - The icons have scale/rotate transformation on hoover for desktop user.
 ![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
 
+### 404 Page
+- The page has a text to explain that it was not possible to find the specific destinatio.
+- The page has a link to go back to the index page.
+
+### Thank You Page
+- The page has a text to thanks the users for subscribing for the presencial meetings.
+- The Thank you page has a link to go back to the index page.
+
 ### Technology Used
 
 ### Languages Used
