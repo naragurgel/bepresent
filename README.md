@@ -31,11 +31,9 @@ Be Present is a website to practice meditation. There are some guided meditation
         * [Wireframes](#wireframes)
       
 2. [Features](#features)  
-    * [Existing Features](#existing-features)
         * [Navigation Bar](#navigation-bar)
         * [Header](#header)
-        * [Features Section](#features-section)
-        * [About Section](#about-section)
+        * [Benefits Section](#benefits-section)
         * [Product Section](#collection-section)
         * [Newsletter Section](#contact-section)
         * [Footer](#footer)
@@ -135,7 +133,7 @@ The final site varies from the wireframes due to developments that occurred duri
 - The header provides the relax image com logo and sub logo inside.
 ![image](https://user-images.githubusercontent.com/112726044/195716423-18579271-a929-4bfc-afd1-f6029bbf964e.png)
 
-### Benfefits Section
+### Benefits Section
 - The benefits of meditation section tell the most important results from the practice of meditation.
 ![image](https://user-images.githubusercontent.com/112726044/195716463-329eeb86-9a40-4db5-ada9-6c123244d921.png)
 
