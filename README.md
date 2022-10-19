@@ -149,10 +149,13 @@ The final site varies from the wireframes due to developments that occurred duri
 ### Sign up Section
 - There are a form with information about the presential meetings.
 - The user can sign up for the meetings by giving some personal details and choosing a time.
+- The form requires text input.
+- The input fields are bigger with font size 18px to make it acessible and avoid auto zooming.
 ![image](https://user-images.githubusercontent.com/112726044/195716656-498089c4-f45e-4fa2-a9d4-a1d7170e51ff.png)
 
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
+- The icons have scale/rotate transformation on hoover for desktop user.
 ![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
 
 ### Technology Used
