@@ -193,7 +193,7 @@ The final site varies from the wireframes due to developments that occurred duri
 ## Deployment 
 
 The site was deployed to GitHub pages. 
-![image](https://user-images.githubusercontent.com/112726044/196784593-1e8c2e19-de3b-46f9-982c-fb01cebda8d7.png)
+![image](https://user-images.githubusercontent.com/112726044/196785741-4bfc6d41-bdc4-4682-8947-f34d6a864d7e.png)
 
 ### Deploy to GitHub Pages
 
