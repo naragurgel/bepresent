@@ -37,6 +37,9 @@ Be Present is a website to practice meditation. There are some guided meditation
     * [Meditations Section](#meditations-section)
     * [Sign up Section](#sign-up-section)
     * [Footer](#footer)
+    * [404 Page](#404-page)
+    * [Thank You Page](#thank-you-page)
+    * [Favicon](#favicon)
         
 3. [Technology Used](#technology-used)  
     * [Languages Used](#languages-used)
@@ -48,7 +51,7 @@ Be Present is a website to practice meditation. There are some guided meditation
   
 6. [Credits](#credits)  
  
-
+7. [Media](#media)  
 - - -
 
 # **Table of Contents**
@@ -156,23 +159,20 @@ The final site varies from the wireframes due to developments that occurred duri
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
 - The icons have scale/rotate transformation on hoover for desktop user.
-![Footer (1)](https://user-images.githubusercontent.com/112726044/196783350-ec44652b-418d-458b-912e-c385794603d4.gif)
+![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
 
 ### 404 Page
 - The page has a text to explain that it was not possible to find the specific destinatio.
 - The page has a link to go back to the index page.
-![image](https://user-images.githubusercontent.com/112726044/196782864-10ab7a5b-00b5-4252-8c9c-ab4bafba5e6d.png)
 
 ### Thank You Page
 - The page has a text to thanks the users for subscribing for the presencial meetings.
 - The Thank you page has a link to go back to the index page.
-![image](https://user-images.githubusercontent.com/112726044/196782607-337ade68-5af7-4ce0-aeca-49460bf40499.png)
 
 ### Favicon 
 - The icon in the browers page is the logo of the page.
-![image](https://user-images.githubusercontent.com/112726044/196783693-08790edb-bf55-4a13-94f0-5bc5faf54204.png)
 
-## Technology Used
+### Technology Used
 
 ### Languages Used
 
@@ -190,10 +190,9 @@ The final site varies from the wireframes due to developments that occurred duri
 - [Github](https://github.com/) - used to deploy the website 
 - [Am I responsive](https://ui.dev/amiresponsive) - to create an image displaying the home page on various devices 
    
-## Deployment 
+### Deployment 
 
 The site was deployed to GitHub pages. 
-![image](https://user-images.githubusercontent.com/112726044/196785741-4bfc6d41-bdc4-4682-8947-f34d6a864d7e.png)
 
 ### Deploy to GitHub Pages
 
@@ -219,11 +218,11 @@ To make a copy or ‘fork’ the repository -
 6. press enter and the local clone will be created 
 
 
-## Testing
+### Testing
 
 [Testing.md](TESTING.md) 
 
-## Credits 
+### Credits 
 I would like to thank my mentor Malia for her help, patience and advice.
 
 ### Media
