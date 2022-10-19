@@ -156,20 +156,23 @@ The final site varies from the wireframes due to developments that occurred duri
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
 - The icons have scale/rotate transformation on hoover for desktop user.
-![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
+![Footer (1)](https://user-images.githubusercontent.com/112726044/196783350-ec44652b-418d-458b-912e-c385794603d4.gif)
 
 ### 404 Page
 - The page has a text to explain that it was not possible to find the specific destinatio.
 - The page has a link to go back to the index page.
+![image](https://user-images.githubusercontent.com/112726044/196782864-10ab7a5b-00b5-4252-8c9c-ab4bafba5e6d.png)
 
 ### Thank You Page
 - The page has a text to thanks the users for subscribing for the presencial meetings.
 - The Thank you page has a link to go back to the index page.
+![image](https://user-images.githubusercontent.com/112726044/196782607-337ade68-5af7-4ce0-aeca-49460bf40499.png)
 
 ### Favicon 
 - The icon in the browers page is the logo of the page.
+![image](https://user-images.githubusercontent.com/112726044/196783693-08790edb-bf55-4a13-94f0-5bc5faf54204.png)
 
-### Technology Used
+## Technology Used
 
 ### Languages Used
 
@@ -187,9 +190,10 @@ The final site varies from the wireframes due to developments that occurred duri
 - [Github](https://github.com/) - used to deploy the website 
 - [Am I responsive](https://ui.dev/amiresponsive) - to create an image displaying the home page on various devices 
    
-### Deployment 
+## Deployment 
 
 The site was deployed to GitHub pages. 
+![image](https://user-images.githubusercontent.com/112726044/196784593-1e8c2e19-de3b-46f9-982c-fb01cebda8d7.png)
 
 ### Deploy to GitHub Pages
 
@@ -215,11 +219,11 @@ To make a copy or ‘fork’ the repository -
 6. press enter and the local clone will be created 
 
 
-### Testing
+## Testing
 
 [Testing.md](TESTING.md) 
 
-### Credits 
+## Credits 
 I would like to thank my mentor Malia for her help, patience and advice.
 
 ### Media
