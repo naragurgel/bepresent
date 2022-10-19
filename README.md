@@ -40,7 +40,7 @@ Be Present is a website to practice meditation. There are some guided meditation
         
 3. [Technology Used](#technology-used)  
     * [Languages Used](#languages-used)
-    * [Frameworks, Libraries & Programs](#frameworks-libraries-&-programs)
+    * [Frameworks, Libraries and Programs](#frameworks-libraries-and-programs)
 
 4. [Testing](#testing)
 
@@ -155,7 +155,7 @@ The final site varies from the wireframes due to developments that occurred duri
 
 -HTML and CSS were used to creat this website.
 
-### Frameworks, Libraries & Programs
+### Frameworks, Libraries and Programs
 
 - [Balsamiq](https://balsamiq.com/) - for wireframes
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - for manipulating images
