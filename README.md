@@ -173,6 +173,7 @@ The final site varies from the wireframes due to developments that occurred duri
 
 ### Favicon 
 - The icon in the browers page is the logo of the page.
+
 ![image](https://user-images.githubusercontent.com/112726044/196788173-edfdc363-46f6-4409-941c-7a84284ff055.png)
 
 ## Technology Used
