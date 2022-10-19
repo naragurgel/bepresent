@@ -166,6 +166,9 @@ The final site varies from the wireframes due to developments that occurred duri
 - The page has a text to thanks the users for subscribing for the presencial meetings.
 - The Thank you page has a link to go back to the index page.
 
+### Favicon 
+- The icon in the browers page is the logo of the page.
+
 ### Technology Used
 
 ### Languages Used
