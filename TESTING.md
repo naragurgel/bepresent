@@ -124,7 +124,9 @@ The hasrdest parts to fix were:
 ### Unresolved
 There is a small gap between the logo image and the relax-image for mobile screen that I couldn't adjust.
 
+## README
 
+[README.md](README.md) 
 
 
 

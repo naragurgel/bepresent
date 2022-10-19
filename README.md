@@ -228,7 +228,6 @@ To make a copy or ‘fork’ the repository -
 5. Type ‘git clone’ and then paste the URL copied from GitHub
 6. Press enter and the local clone will be created 
 
-
 ## Testing
 
 [Testing.md](TESTING.md) 
@@ -237,6 +236,6 @@ To make a copy or ‘fork’ the repository -
 I would like to thank my mentor Malia for her help, patience and advice.
 
 ## Media
--Relax image is from Pexels website, free images.
+- Relax image is from Pexels website, free images.
 - Guided meditations videos are from Youtube.
 
