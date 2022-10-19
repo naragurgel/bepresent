@@ -103,7 +103,7 @@ The photos featured throughout the site were obtained from free image providers 
 
 ### Site Structure
 
-Be Present is a 4 sections and 2 pages website. The home page is the default loading page. the other sections are accessible from the navigation menu at all times.
+Be Present is a 4 sections and 2 pages website and 404 pag customized. The home page is the default loading page. the other sections are accessible from the navigation menu at all times.
 
 ### Wireframes
 
@@ -159,20 +159,23 @@ The final site varies from the wireframes due to developments that occurred duri
 ### Footer
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
 - The icons have scale/rotate transformation on hoover for desktop user.
-![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
+![Footer (1)](https://user-images.githubusercontent.com/112726044/196787752-fffad470-8893-4407-8d37-a89148472881.gif)
 
 ### 404 Page
 - The page has a text to explain that it was not possible to find the specific destinatio.
 - The page has a link to go back to the index page.
+![image](https://user-images.githubusercontent.com/112726044/196787943-806e5db1-8356-412b-b9ce-ecc193918bd6.png)
 
 ### Thank You Page
 - The page has a text to thanks the users for subscribing for the presencial meetings.
 - The Thank you page has a link to go back to the index page.
+![image](https://user-images.githubusercontent.com/112726044/196788076-503c4500-80f8-4ef8-a35b-afcf1d78aff3.png)
 
 ### Favicon 
 - The icon in the browers page is the logo of the page.
+![image](https://user-images.githubusercontent.com/112726044/196788173-edfdc363-46f6-4409-941c-7a84284ff055.png)
 
-### Technology Used
+## Technology Used
 
 ### Languages Used
 
@@ -193,6 +196,7 @@ The final site varies from the wireframes due to developments that occurred duri
 ### Deployment 
 
 The site was deployed to GitHub pages. 
+![image](https://user-images.githubusercontent.com/112726044/196788342-287ce7be-3c7a-4d65-8307-edcbbef8cdbe.png)
 
 ### Deploy to GitHub Pages
 
@@ -210,22 +214,22 @@ To make a copy or ‘fork’ the repository -
 
 ### To create a Local Clone 
 
-1. under the repository name, click on the ‘code’ tab 
-2. in the clone box, HTTPS tab, click on the clipboard icon 
-3. in your IED open GitBash 
+1. Under the repository name, click on the ‘code’ tab 
+2. In the clone box, HTTPS tab, click on the clipboard icon 
+3. In your IED open GitBash 
 4. Changed the current working directory to the location you want the cloned directory to be made
 5. Type ‘git clone’ and then paste the URL copied from GitHub
-6. press enter and the local clone will be created 
+6. Press enter and the local clone will be created 
 
 
-### Testing
+## Testing
 
 [Testing.md](TESTING.md) 
 
-### Credits 
+## Credits 
 I would like to thank my mentor Malia for her help, patience and advice.
 
-### Media
-Relax image is from Pexels website, free images.
-Guided meditations videos are from Youtube.
+## Media
+-Relax image is from Pexels website, free images.
+- Guided meditations videos are from Youtube.
 
