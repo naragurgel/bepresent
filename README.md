@@ -34,8 +34,8 @@ Be Present is a website to practice meditation. There are some guided meditation
         * [Navigation Bar](#navigation-bar)
         * [Header](#header)
         * [Benefits Section](#benefits-section)
-        * [Product Section](#collection-section)
-        * [Newsletter Section](#contact-section)
+        * [Meditations Section](#meditations-section)
+        * [Sign up Section](#sign-up-section)
         * [Footer](#footer)
         
 3. [Technology Used](#technology-used)  
