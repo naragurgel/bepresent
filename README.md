@@ -140,14 +140,20 @@ The final site varies from the wireframes due to developments that occurred duri
 
 ### Benefits Section
 - The benefits of meditation section tell the most important results from the practice of meditation.
-- The benefits section becomes 1 column vs 3 on smaller devices.
 ![image](https://user-images.githubusercontent.com/112726044/195716463-329eeb86-9a40-4db5-ada9-6c123244d921.png)
+
+- The benefits section becomes 1 column on smaller devices.
+
+![image](https://user-images.githubusercontent.com/112726044/196795045-8df29aef-2118-4764-8216-85431f3f0ad8.png)
 
 ### Meditations Section
 - The meditations section shows videos of guided meditation for the user prectice it.
-- The meditation sections becomes 1 column vs 3 o smaller devices.
 - The videos are interactive and retain the aspect ratio when playing back no matter the screen width.
 ![image](https://user-images.githubusercontent.com/112726044/195716612-f7a5a5f9-6584-465f-8d02-9c5935646151.png)
+
+- The meditation sections becomes 1 column on smaller devices.
+
+![Be present - 19 October 2022 (3) (1)](https://user-images.githubusercontent.com/112726044/196794657-48a136e2-dd43-4d98-9cb0-ec58c34287b1.gif)
 
 ### Sign up Section
 - There are a form with information about the presential meetings.
