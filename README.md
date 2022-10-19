@@ -31,24 +31,23 @@ Be Present is a website to practice meditation. There are some guided meditation
         * [Wireframes](#wireframes)
       
 2. [Features](#features)  
-       * [Navigation Bar](#navigation-bar)
-        * [Header](#header)
-        * [Benefits Section](#benefits-section)
-        * [Meditations Section](#meditations-section)
-        * [Sign up Section](#sign-up-section)
-        * [Footer](#footer)
+    * [Navigation Bar](#navigation-bar)
+    * [Header](#header)
+    * [Benefits Section](#benefits-section)
+    * [Meditations Section](#meditations-section)
+    * [Sign up Section](#sign-up-section)
+    * [Footer](#footer)
         
 3. [Technology Used](#technology-used)  
-    * [Language Used](#language-used)
-    * [Tools and Libraries](#tools-and-libraries)
+    * [Languages Used](#languages-used)
+    * [Frameworks, Libraries & Programs](#frameworks-libraries-&-programs)
 
 4. [Testing](#testing)
 
 5. [Deployment](#deployment)  
   
 6. [Credits](#credits)  
-    * [Content](#content)
-    * [Media](#media)  
+ 
 
 - - -
 
@@ -150,11 +149,13 @@ The final site varies from the wireframes due to developments that occurred duri
 - The footer has 4 icons with directions for the social medias, where the user could contact and also interact.
 ![Footer](https://user-images.githubusercontent.com/112726044/196269989-64d46af3-3087-4bda-988e-3ab667d3a59f.gif)
 
+### Technology Used
+
 ### Languages Used
 
 -HTML and CSS were used to creat this website.
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs
 
 - [Balsamiq](https://balsamiq.com/) - for wireframes
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - for manipulating images
